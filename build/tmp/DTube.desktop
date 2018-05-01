@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=DTube
+Exec=webapp-container --webappUrlPatterns=https?://d.tube/* https://d.tube
+Icon=logo.svg
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+X-Ubuntu-Splash-Color=#FFFFFF
+Name[de_DE]=DTube
