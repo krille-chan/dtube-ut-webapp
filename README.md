@@ -1,4 +1,4 @@
-# DSound
+# DTube
 
 Unofficial webapp for DTube, a blockchain based video platform
 

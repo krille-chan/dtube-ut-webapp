@@ -4,7 +4,7 @@
     "architecture": "all",
     "title": "DTube",
     "hooks": {
-        "DSound": {
+        "DTube": {
             "apparmor": "DTube.apparmor",
             "desktop":  "DTube.desktop"
         }
